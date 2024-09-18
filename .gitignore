@@ -1,1 +1,3 @@
-
+__pycache__/
+django-orm/
+settings.py
